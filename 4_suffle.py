@@ -1,6 +1,5 @@
 import random
 from turtle import position
-import numpy as np
 
 
 def custom_suffle(number):
